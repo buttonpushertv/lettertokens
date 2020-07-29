@@ -3,7 +3,7 @@
     "title": "Letter Tokens",   
     "description": "Letter Tokens for Use in your FVTT Games",   
     "author": "Ben Howard(buttonpusher#8906)",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion":"0.6.0",
     "packs": [
@@ -17,5 +17,5 @@
    ],
    "url": "https://github.com/buttonpushertv/lettertokens",
    "manifest": "https://raw.githubusercontent.com/buttonpushertv/lettertokens/master/module.json",
-   "download": "https://github.com/buttonpushertv/lettertokens/archive/1.0.1.zip"
+   "download": "https://github.com/buttonpushertv/lettertokens/archive/1.0.2.zip"
   }
