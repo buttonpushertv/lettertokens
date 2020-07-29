@@ -2,9 +2,8 @@
     "name": "LetterTokens",   
     "title": "Letter Tokens",   
     "description": "Letter Tokens for Use in your FVTT Games",   
-    "author": "Ben Howard",
+    "author": "Ben Howard(buttonpusher#8906)",
     "version": "1.0.0",
-    "url": "https://github.com/buttonpushertv/lettertokens"
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion":"0.6.0",
     "packs": [
