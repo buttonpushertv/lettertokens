@@ -1,6 +1,7 @@
 # lettertokens
 A module for FoundryVTT providing LetterTokens for use in any RPG setting/system
 
+---
 
 Use these LetterTokens to help your games run more efficiently. Spend less time going back and forth between your game and other materials. Spend less time on setup of combat encounters.
 
