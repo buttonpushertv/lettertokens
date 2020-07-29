@@ -5,7 +5,7 @@ A module for FoundryVTT providing LetterTokens for use in any RPG setting/system
 
 Use these LetterTokens to help your games run more efficiently. Spend less time going back and forth between your game and other materials. Spend less time on setup of combat encounters.
 
-![](images/bebas/SQUARE/WHITE-ON-BLACK/UPPERCASE/bebas_280x280_wob_SQUARE_uppercase_A.png)
+![]<(images/bebas/SQUARE/WHITE-ON-BLACK/UPPERCASE/bebas_280x280_wob_SQUARE_uppercase_A.png> =70x70)
 
 
 ![](<modules\LetterTokens\images\sixty\SQUARE\WHITE-ON-BLUE\UPPERCASE\sixty_280x280_blue_SQUARE_uppercase_B.png> =70x70)![](<modules\LetterTokens\images\times-new-yorker\SQUARE\BLACK-ON-YELLOW\UPPERCASE\times-new-yorker_280x280_yellow_SQUARE_uppercase_C.png> =70x70)![](<modules\LetterTokens\images\lazenby-computer\SQUARE\WHITE-ON-RED\UPPERCASE\lazenby-computer_280x280_red_SQUARE_uppercase_D.png> =70x70)![](<modules\LetterTokens\images\barbarian\SQUARE\BLACK-ON-GREEN\UPPERCASE\barbarian_280x280_green_SQUARE_uppercase_E.png> =70x70)
