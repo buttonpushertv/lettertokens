@@ -14,5 +14,8 @@
        "entity": "JournalEntry",
        "module": "LetterTokens"
      }
-   ]
+   ],
+   "url": "https://github.com/buttonpushertv/lettertokens",
+   "manifest": "https://raw.githubusercontent.com/buttonpushertv/lettertokens/master/module.json",
+   "download": "https://github.com/buttonpushertv/lettertokens/archive/1.0.0.zip"
   }
