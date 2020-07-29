@@ -5,7 +5,10 @@ A module for FoundryVTT providing LetterTokens for use in any RPG setting/system
 
 Use these LetterTokens to help your games run more efficiently. Spend less time going back and forth between your game and other materials. Spend less time on setup of combat encounters.
 
-![](<modules\LetterTokens\images\bebas\SQUARE\WHITE-ON-BLACK\UPPERCASE\bebas_280x280_wob_SQUARE_uppercase_A.png> =70x70)![](<modules\LetterTokens\images\sixty\SQUARE\WHITE-ON-BLUE\UPPERCASE\sixty_280x280_blue_SQUARE_uppercase_B.png> =70x70)![](<modules\LetterTokens\images\times-new-yorker\SQUARE\BLACK-ON-YELLOW\UPPERCASE\times-new-yorker_280x280_yellow_SQUARE_uppercase_C.png> =70x70)![](<modules\LetterTokens\images\lazenby-computer\SQUARE\WHITE-ON-RED\UPPERCASE\lazenby-computer_280x280_red_SQUARE_uppercase_D.png> =70x70)![](<modules\LetterTokens\images\barbarian\SQUARE\BLACK-ON-GREEN\UPPERCASE\barbarian_280x280_green_SQUARE_uppercase_E.png> =70x70)
+![]images\bebas\SQUARE\WHITE-ON-BLACK\UPPERCASE\bebas_280x280_wob_SQUARE_uppercase_A.png
+
+
+![](<modules\LetterTokens\images\sixty\SQUARE\WHITE-ON-BLUE\UPPERCASE\sixty_280x280_blue_SQUARE_uppercase_B.png> =70x70)![](<modules\LetterTokens\images\times-new-yorker\SQUARE\BLACK-ON-YELLOW\UPPERCASE\times-new-yorker_280x280_yellow_SQUARE_uppercase_C.png> =70x70)![](<modules\LetterTokens\images\lazenby-computer\SQUARE\WHITE-ON-RED\UPPERCASE\lazenby-computer_280x280_red_SQUARE_uppercase_D.png> =70x70)![](<modules\LetterTokens\images\barbarian\SQUARE\BLACK-ON-GREEN\UPPERCASE\barbarian_280x280_green_SQUARE_uppercase_E.png> =70x70)
 
 Use them as a place to hold map-related content or GM notes (via Pins). Use them as quick, down & dirty, tokens to represent monsters, NPCs, or other items so you don't spend hours trying to find \*exactly\* the right image (only to have your players mow them down without appreciating your selection). Also they can be a great way to hide the identity, type, and number of given foes your party may go up against.
 
