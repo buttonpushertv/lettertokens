@@ -5,18 +5,15 @@ A module for FoundryVTT providing LetterTokens for use in any RPG setting/system
 
 Use these LetterTokens to help your games run more efficiently. Spend less time going back and forth between your game and other materials. Spend less time on setup of combat encounters.
 
-<img src="images/bebas/SQUARE/WHITE-ON-BLACK/UPPERCASE/bebas_280x280_wob_SQUARE_uppercase_A.png" height="70" width="70">
-
-
-![](<modules\LetterTokens\images\sixty\SQUARE\WHITE-ON-BLUE\UPPERCASE\sixty_280x280_blue_SQUARE_uppercase_B.png> =70x70)![](<modules\LetterTokens\images\times-new-yorker\SQUARE\BLACK-ON-YELLOW\UPPERCASE\times-new-yorker_280x280_yellow_SQUARE_uppercase_C.png> =70x70)![](<modules\LetterTokens\images\lazenby-computer\SQUARE\WHITE-ON-RED\UPPERCASE\lazenby-computer_280x280_red_SQUARE_uppercase_D.png> =70x70)![](<modules\LetterTokens\images\barbarian\SQUARE\BLACK-ON-GREEN\UPPERCASE\barbarian_280x280_green_SQUARE_uppercase_E.png> =70x70)
+<img src="images\bebas\SQUARE\WHITE-ON-BLACK\UPPERCASE\bebas_280x280_wob_SQUARE_uppercase_A.png" height="70" width="70"><img src="images\sixty\SQUARE\WHITE-ON-BLUE\UPPERCASE\sixty_280x280_blue_SQUARE_uppercase_B.png" height="70" width="70"><img src="images\times-new-yorker\SQUARE\BLACK-ON-YELLOW\UPPERCASE\times-new-yorker_280x280_yellow_SQUARE_uppercase_C.png" height="70" width="70"><img src="images\lazenby-computer\SQUARE\WHITE-ON-RED\UPPERCASE\lazenby-computer_280x280_red_SQUARE_uppercase_D.png" height="70" width="70"><img src="images\barbarian\SQUARE\BLACK-ON-GREEN\UPPERCASE\barbarian_280x280_green_SQUARE_uppercase_E.png" height="70" width="70">
 
 Use them as a place to hold map-related content or GM notes (via Pins). Use them as quick, down & dirty, tokens to represent monsters, NPCs, or other items so you don't spend hours trying to find \*exactly\* the right image (only to have your players mow them down without appreciating your selection). Also they can be a great way to hide the identity, type, and number of given foes your party may go up against.
 
-![](<modules\LetterTokens\images\lazenby-computer\CIRCLE\WHITE-ON-RED\NUMBERS\lazenby-computer_280x280_red_CIRCLE_number_0.png> =70x70)![](<modules\LetterTokens\images\bebas\CIRCLE\BLACK-ON-YELLOW\NUMBERS\bebas_280x280_yellow_CIRCLE_number_1.png> =70x70)![](<modules\LetterTokens\images\barbarian\CIRCLE\WHITE-ON-BLUE\UPPERCASE\barbarian_280x280_blue_CIRCLE_uppercase_X.png> =70x70)![](<modules\LetterTokens\images\times-new-yorker\CIRCLE\BLACK-ON-GREEN\NUMBERS\times-new-yorker_280x280_green_CIRCLE_number_2.png> =70x70)![](<modules\LetterTokens\images\sixty\CIRCLE\BLACK-ON-WHITE\NUMBERS\sixty_280x280_bow_CIRCLE_number_3.png> =70x70)
+<img src="images\lazenby-computer\CIRCLE\WHITE-ON-RED\NUMBERS\lazenby-computer_280x280_red_CIRCLE_number_0.png" height="70" width="70"><img src="images\bebas\CIRCLE\BLACK-ON-YELLOW\NUMBERS\bebas_280x280_yellow_CIRCLE_number_1.png" height="70" width="70"><img src="images\barbarian\CIRCLE\WHITE-ON-BLUE\UPPERCASE\barbarian_280x280_blue_CIRCLE_uppercase_X.png" height="70" width="70"><img src="images\times-new-yorker\CIRCLE\BLACK-ON-GREEN\NUMBERS\times-new-yorker_280x280_green_CIRCLE_number_2.png" height="70" width="70"><img src="images\sixty\CIRCLE\BLACK-ON-WHITE\NUMBERS\sixty_280x280_bow_CIRCLE_number_3.png" height="70" width="70">
 
 This set has SQUARE, CIRCULAR, & PLAIN token shapes. There are 5 different fonts in this FVTT module version (see below for listing). This should give you a good range that are useful across a wide variety of game genres. Most fonts have lowercase, uppercase, numbers, and symbols to give you a variety of tokens.
 
-![](<modules\LetterTokens\images\barbarian\PLAIN\BLACK\UPPERCASE\barbarian_280x280_black_uppercase_Z.png> =70x70)![](<modules\LetterTokens\images\times-new-yorker\PLAIN\BLACK\lowercase\times-new-yorker_280x280_black_lowercase_y.png> =70x70)![](<modules\LetterTokens\images\lazenby-computer\PLAIN\WHITE\UPPERCASE\lazenby-computer_280x280_white_uppercase_X.png> =70x70)![](<modules\LetterTokens\images\bebas\PLAIN\BLACK\UPPERCASE\bebas_280x280_black_uppercase_W.png> =70x70)![](<modules\LetterTokens\images\sixty\PLAIN\WHITE\lowercase\sixty_280x280_white_lowercase_v.png> =70x70)
+<img src="images\barbarian\PLAIN\BLACK\UPPERCASE\barbarian_280x280_black_uppercase_Z.png" height="70" width="70"><img src="images\times-new-yorker\PLAIN\BLACK\lowercase\times-new-yorker_280x280_black_lowercase_y.png" height="70" width="70"><img src="images\lazenby-computer\PLAIN\WHITE\UPPERCASE\lazenby-computer_280x280_white_uppercase_X.png" height="70" width="70"><img src="images\bebas\PLAIN\BLACK\UPPERCASE\bebas_280x280_black_uppercase_W.png" height="70" width="70"><img src="images\sixty\PLAIN\WHITE\lowercase\sixty_280x280_white_lowercase_v.png" height="70" width="70">
 
 ---
 
@@ -32,6 +29,8 @@ TO USE THEM IN YOUR GAME:
 <!-- -->
 
 (You can match the font style to the type of game you are running.)
+
+
 
 
 
