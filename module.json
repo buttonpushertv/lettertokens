@@ -1,0 +1,18 @@
+{   
+    "name": "LetterTokens",   
+    "title": "Letter Tokens",   
+    "description": "Letter Tokens for Use in your FVTT Games",   
+    "author": "Ben Howard",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.6.0",
+    "compatibleCoreVersion":"0.6.0",
+    "packs": [
+     {
+       "name": "JournalEntry",
+       "label": "LetterTokens-README",
+       "path": "packs/Letter_Tokens.db",
+       "entity": "JournalEntry",
+       "module": "LetterTokens"
+     }
+   ]
+  }
