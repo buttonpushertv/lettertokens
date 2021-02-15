@@ -32,7 +32,6 @@ TO USE THEM IN YOUR GAME:
 
 ---
 To make use of the **Wildcard Token Image** feature of FoundryVTT, you simply need to chose the token style you wish to use in the *Token Image Path* field of the *Prototype Token* for a given actor. Make sure the path item ends with **.png* - like this:
-
 <img src="https://github.com/buttonpushertv/lettertokens/blob/media/README_images/wildcard_token_usage.jpg">
 
 <!-- -->
