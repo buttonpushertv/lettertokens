@@ -2,6 +2,10 @@
 A module for FoundryVTT providing LetterTokens for use in any RPG setting/system
 
 ---
+# UPDATED TO v.2.0.0: 
+There are now Actor Compendiums for each token style. You can import these Generic NPC actors for easy and quick addition to any game world.
+
+---
 
 Use these LetterTokens to help your games run more efficiently. Spend less time going back and forth between your game and other materials. Spend less time on setup of combat encounters.
 
@@ -26,15 +30,18 @@ TO USE THEM IN YOUR GAME:
 5. Under the 'Image' tab, change the 'Token Image Path' to the new LetterToken you wish to use.
 6. Navigate in the File Picker to modules\LetterTokens\images and then choose one of the fonts below by name
 
+---
+To make use of the **Wildcard Token Image** feature of FoundryVTT, you simply need to chose the token style you wish to use in the *Token Image Path* field of the *Prototype Token* for a given actor. Make sure the path item ends with **.png* - like this:
+
+<img src="https://github.com/buttonpushertv/lettertokens/blob/media/README_images/wildcard_token_usage.jpg">
+
 <!-- -->
 
 (You can match the font style to the type of game you are running.)
 
-
-
 ---
 
-<span style="font-size: 1.5em;">Fonts in this module<\span>
+## Fonts in this module
 
 Barbarian - Letters ONLY - UPPERCASE Only
 
