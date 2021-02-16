@@ -8,3 +8,7 @@
 
 ### v.1.0.2
  - Fixing a typo
+
+### v.2.0.0
+ - There are now Actor Compendiums for each of the LetterToken fonts/styles/colors sets. They are set as Unlinked Generic NPC Actors. You can import a whole folder of tokens to use in your worlds.
+ - Added instructions to use Wildcard Token Image feature in FVTT.
