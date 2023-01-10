@@ -1,21 +1,31 @@
-{   
-    "name": "LetterTokens",   
-    "title": "Letter Tokens",   
-    "description": "Letter Tokens for Use in your FVTT Games",   
-    "author": "Ben Howard(buttonpusher#8906)",
-    "version": "1.0.2",
-    "minimumCoreVersion": "0.6.0",
-    "compatibleCoreVersion":"0.6.0",
-    "packs": [
-     {
-       "name": "JournalEntry",
-       "label": "LetterTokens-README",
-       "path": "packs/Letter_Tokens.db",
-       "entity": "JournalEntry",
-       "module": "LetterTokens"
-     }
-   ],
-   "url": "https://github.com/buttonpushertv/lettertokens",
-   "manifest": "https://raw.githubusercontent.com/buttonpushertv/lettertokens/master/module.json",
-   "download": "https://github.com/buttonpushertv/lettertokens/archive/1.0.2.zip"
-  }
+{
+  "id": "LetterTokens",
+  "title": "Letter Tokens",
+  "description": "A module for FoundryVTT providing LetterTokens for use in any RPG setting/system. Use these LetterTokens to help your games run more efficiently. Spend less time going back and forth between your game and other materials. Spend less time on setup of combat encounters.",
+  "authors": [
+    {
+      "name": "Ben Howard(buttonpusher#8906)"
+    }
+  ],
+  "version": "2.0.0",
+  "compatibility": {
+    "minimum": "10.276",
+    "verified": "10.285"
+  },
+  "flags": {
+  },
+  "url": "https://github.com/buttonpushertv/lettertokens",
+  "manifest": "https://foundryvtt.s3-us-west-2.amazonaws.com/modules/LetterTokens/module.json",
+  "download": "https://github.com/buttonpushertv/lettertokens/archive/1.0.2.zip",
+  "packs": [
+    {
+      "name": "JournalEntry",
+      "label": "LetterTokens-README",
+      "path": "packs/Letter_Tokens.db",
+      "entity": "JournalEntry",
+      "module": "LetterTokens",
+      "private": false
+    }
+  ],
+  "protected": false
+}

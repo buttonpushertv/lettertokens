@@ -8,3 +8,6 @@
 
 ### v.1.0.2
  - Fixing a typo
+
+### v.2.0.0
+ - FoundryVTT V10 compatibility
